@@ -1,0 +1,1595 @@
+2019-03-01 10:24:40,395 - spider_HJZL.py:766 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 763, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:24:40,400 - spider_HJZL.py:766 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 763, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:24:40,404 - spider_HJZL.py:766 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 763, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:24:40,408 - spider_HJZL.py:766 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 763, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:24:40,414 - spider_HJZL.py:766 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 763, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:24:40,417 - spider_HJZL.py:766 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 763, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:24:40,421 - spider_HJZL.py:766 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 763, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:24:40,647 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:24:40,648 - spider_HJZL.py:338 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 335, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:24:40,651 - spider_HJZL.py:345 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 342, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:24:40,796 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:24:40,799 - spider_HJZL.py:338 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 335, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:24:40,802 - spider_HJZL.py:345 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 342, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:24:40,947 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:24:40,951 - spider_HJZL.py:338 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 335, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:24:40,953 - spider_HJZL.py:345 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 342, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:24:41,105 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:24:41,108 - spider_HJZL.py:338 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 335, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:24:41,115 - spider_HJZL.py:345 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 342, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:24:41,259 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:24:41,263 - spider_HJZL.py:338 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 335, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:24:41,265 - spider_HJZL.py:345 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 342, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:24:41,413 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:24:41,417 - spider_HJZL.py:338 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 335, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:24:41,420 - spider_HJZL.py:345 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 342, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:17,079 - spider_HJZL.py:767 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 764, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:17,085 - spider_HJZL.py:767 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 764, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:17,091 - spider_HJZL.py:767 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 764, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:17,095 - spider_HJZL.py:767 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 764, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:17,101 - spider_HJZL.py:767 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 764, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:17,105 - spider_HJZL.py:767 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 764, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:17,111 - spider_HJZL.py:767 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 764, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:17,346 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:17,349 - spider_HJZL.py:338 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 335, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:17,352 - spider_HJZL.py:345 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 342, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:17,671 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:17,674 - spider_HJZL.py:338 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 335, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:17,690 - spider_HJZL.py:345 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 342, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:17,842 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:17,845 - spider_HJZL.py:338 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 335, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:17,848 - spider_HJZL.py:345 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 342, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:18,002 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:18,005 - spider_HJZL.py:338 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 335, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:18,007 - spider_HJZL.py:345 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 342, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:18,160 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:18,164 - spider_HJZL.py:338 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 335, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:18,167 - spider_HJZL.py:345 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 342, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:18,312 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:18,315 - spider_HJZL.py:338 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 335, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:18,318 - spider_HJZL.py:345 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 342, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:40,887 - spider_HJZL.py:767 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 764, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:40,894 - spider_HJZL.py:767 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 764, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:40,900 - spider_HJZL.py:767 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 764, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:40,904 - spider_HJZL.py:767 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 764, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:40,910 - spider_HJZL.py:767 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 764, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:40,914 - spider_HJZL.py:767 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 764, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:40,918 - spider_HJZL.py:767 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 764, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:41,154 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:41,157 - spider_HJZL.py:338 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 335, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:41,161 - spider_HJZL.py:345 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 342, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:41,318 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:41,321 - spider_HJZL.py:338 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 335, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:41,323 - spider_HJZL.py:345 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 342, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:41,473 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:41,474 - spider_HJZL.py:338 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 335, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:41,477 - spider_HJZL.py:345 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 342, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:41,647 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:41,651 - spider_HJZL.py:338 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 335, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:41,654 - spider_HJZL.py:345 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 342, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:41,832 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:41,835 - spider_HJZL.py:338 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 335, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:41,838 - spider_HJZL.py:345 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 342, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:42,529 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:42,530 - spider_HJZL.py:338 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 335, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:27:42,533 - spider_HJZL.py:345 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 342, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:33:19,191 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:33:19,198 - spider_HJZL.py:338 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 335, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:33:19,203 - spider_HJZL.py:345 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 342, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:37:11,255 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:37:11,257 - spider_HJZL.py:338 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 335, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:37:11,260 - spider_HJZL.py:345 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 342, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:37:11,427 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:37:11,430 - spider_HJZL.py:338 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 335, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:37:11,433 - spider_HJZL.py:345 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 342, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:37:11,591 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:37:11,595 - spider_HJZL.py:338 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 335, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:37:11,599 - spider_HJZL.py:345 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 342, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:37:12,096 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:37:12,099 - spider_HJZL.py:338 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 335, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:37:12,101 - spider_HJZL.py:345 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 342, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:40:19,036 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:40:19,075 - spider_HJZL.py:338 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 335, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:40:19,111 - spider_HJZL.py:345 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 342, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:40:41,592 - spider_HJZL.py:332 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 329, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:40:41,595 - spider_HJZL.py:339 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 336, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:40:41,598 - spider_HJZL.py:346 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 343, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:40:41,849 - spider_HJZL.py:332 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 329, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:40:41,852 - spider_HJZL.py:339 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 336, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:40:41,855 - spider_HJZL.py:346 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 343, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:40:42,118 - spider_HJZL.py:332 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 329, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:40:42,121 - spider_HJZL.py:339 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 336, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:40:42,125 - spider_HJZL.py:346 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 343, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:40:42,371 - spider_HJZL.py:332 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 329, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:40:42,374 - spider_HJZL.py:339 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 336, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:40:42,377 - spider_HJZL.py:346 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 343, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:40:42,634 - spider_HJZL.py:332 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 329, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:40:42,635 - spider_HJZL.py:339 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 336, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:40:42,638 - spider_HJZL.py:346 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 343, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:40:42,884 - spider_HJZL.py:332 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 329, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:40:42,885 - spider_HJZL.py:339 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 336, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:40:42,888 - spider_HJZL.py:346 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 343, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:42:07,244 - spider_HJZL.py:333 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 330, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:42:07,247 - spider_HJZL.py:340 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 337, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:42:07,250 - spider_HJZL.py:347 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 344, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:42:07,546 - spider_HJZL.py:333 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 330, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:42:07,549 - spider_HJZL.py:340 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 337, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:42:07,552 - spider_HJZL.py:347 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 344, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:42:07,874 - spider_HJZL.py:333 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 330, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:42:07,875 - spider_HJZL.py:340 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 337, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:42:07,878 - spider_HJZL.py:347 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 344, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:42:08,183 - spider_HJZL.py:333 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 330, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:42:08,187 - spider_HJZL.py:340 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 337, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:42:08,191 - spider_HJZL.py:347 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 344, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:42:08,553 - spider_HJZL.py:333 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 330, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:42:08,556 - spider_HJZL.py:340 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 337, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:42:08,559 - spider_HJZL.py:347 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 344, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:42:08,855 - spider_HJZL.py:333 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 330, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:42:08,858 - spider_HJZL.py:340 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 337, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:42:08,865 - spider_HJZL.py:347 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 344, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:10,387 - spider_HJZL.py:334 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 331, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:10,390 - spider_HJZL.py:341 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 338, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:10,392 - spider_HJZL.py:348 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 345, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:10,553 - spider_HJZL.py:334 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 331, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:10,556 - spider_HJZL.py:341 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 338, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:10,559 - spider_HJZL.py:348 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 345, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:10,711 - spider_HJZL.py:334 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 331, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:10,714 - spider_HJZL.py:341 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 338, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:10,717 - spider_HJZL.py:348 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 345, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:10,868 - spider_HJZL.py:334 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 331, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:10,871 - spider_HJZL.py:341 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 338, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:10,874 - spider_HJZL.py:348 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 345, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:11,033 - spider_HJZL.py:334 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 331, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:11,038 - spider_HJZL.py:341 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 338, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:11,040 - spider_HJZL.py:348 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 345, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:11,193 - spider_HJZL.py:334 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 331, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:11,196 - spider_HJZL.py:341 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 338, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:11,197 - spider_HJZL.py:348 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 345, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:42,630 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:42,632 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:42,635 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:42,815 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:42,819 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:42,825 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:43,019 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:43,023 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:43,026 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:43,204 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:43,207 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:43,210 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:43,381 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:43,394 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:43,404 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:43,578 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:43,581 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:43:43,584 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:44:13,838 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:44:13,993 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:44:14,144 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:44:14,308 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:44:14,460 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:44:14,621 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:44:28,454 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:44:28,459 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:44:28,460 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:52:12,834 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    timenow_afterwards = timenow_formal.strftime("%Y-%m-%d %H:%M:%S")
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:52:12,834 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    timenow_afterwards = timenow_formal.strftime("%Y-%m-%d %H:%M:%S")
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:52:12,996 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    timenow_afterwards = timenow_formal.strftime("%Y-%m-%d %H:%M:%S")
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:52:12,996 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    timenow_afterwards = timenow_formal.strftime("%Y-%m-%d %H:%M:%S")
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:52:13,157 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    timenow_afterwards = timenow_formal.strftime("%Y-%m-%d %H:%M:%S")
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:52:13,157 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    timenow_afterwards = timenow_formal.strftime("%Y-%m-%d %H:%M:%S")
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:52:13,312 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    timenow_afterwards = timenow_formal.strftime("%Y-%m-%d %H:%M:%S")
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:52:13,312 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    timenow_afterwards = timenow_formal.strftime("%Y-%m-%d %H:%M:%S")
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:52:13,466 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    timenow_afterwards = timenow_formal.strftime("%Y-%m-%d %H:%M:%S")
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:52:13,466 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    timenow_afterwards = timenow_formal.strftime("%Y-%m-%d %H:%M:%S")
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:52:13,630 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    timenow_afterwards = timenow_formal.strftime("%Y-%m-%d %H:%M:%S")
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:52:13,630 - spider_HJZL.py:331 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 328, in spider2
+    timenow_afterwards = timenow_formal.strftime("%Y-%m-%d %H:%M:%S")
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:52:13,632 - spider_HJZL.py:338 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 335, in spider2
+    logger.error('宸叉湁鏁版嵁',exc_info=1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:52:13,632 - spider_HJZL.py:338 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 335, in spider2
+    logger.error('宸叉湁鏁版嵁',exc_info=1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:52:13,635 - spider_HJZL.py:345 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 342, in spider2
+    logger.error('宸叉湁鏁版嵁',exc_info=1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:52:13,635 - spider_HJZL.py:345 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 342, in spider2
+    logger.error('宸叉湁鏁版嵁',exc_info=1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:32,081 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:32,081 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:32,084 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:32,084 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:32,086 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:32,086 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:34,203 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:34,203 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:34,207 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:34,207 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:34,210 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:34,210 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:36,851 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:36,851 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:36,857 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:36,857 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:36,861 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:36,861 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:39,565 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:39,565 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:39,569 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:39,569 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:39,572 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:39,572 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:42,207 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:42,207 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:42,210 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:42,210 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:42,213 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:42,213 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:44,760 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:44,760 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:44,763 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:44,763 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:44,766 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 10:59:44,766 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:00:07,855 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-01400: 无法将 NULL 插入 ("TCHBDC_NEW"."CG_HJZL_KQAQIXSPJ"."PJSJ")
+2019-03-01 11:00:07,858 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:00:07,859 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:00:10,049 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-01400: 无法将 NULL 插入 ("TCHBDC_NEW"."CG_HJZL_KQAQIXSPJ"."PJSJ")
+2019-03-01 11:00:10,052 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:00:10,055 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:00:12,819 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-01400: 无法将 NULL 插入 ("TCHBDC_NEW"."CG_HJZL_KQAQIXSPJ"."PJSJ")
+2019-03-01 11:00:12,822 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:00:12,823 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:00:15,594 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-01400: 无法将 NULL 插入 ("TCHBDC_NEW"."CG_HJZL_KQAQIXSPJ"."PJSJ")
+2019-03-01 11:00:15,596 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:00:15,598 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:00:18,489 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-01400: 无法将 NULL 插入 ("TCHBDC_NEW"."CG_HJZL_KQAQIXSPJ"."PJSJ")
+2019-03-01 11:00:18,493 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:00:18,494 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:00:20,976 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-01400: 无法将 NULL 插入 ("TCHBDC_NEW"."CG_HJZL_KQAQIXSPJ"."PJSJ")
+2019-03-01 11:00:20,979 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:00:20,983 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:09:03,335 - spider_HJZL.py:771 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 768, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:09:03,339 - spider_HJZL.py:771 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 768, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:09:03,344 - spider_HJZL.py:771 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 768, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:09:03,346 - spider_HJZL.py:771 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 768, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:09:03,351 - spider_HJZL.py:771 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 768, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:09:03,355 - spider_HJZL.py:771 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 768, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:09:03,358 - spider_HJZL.py:771 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 768, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:09:05,217 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-01400: 无法将 NULL 插入 ("TCHBDC_NEW"."CG_HJZL_KQAQIXSPJ"."PJSJ")
+2019-03-01 11:09:05,223 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:09:05,230 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:09:07,536 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-01400: 无法将 NULL 插入 ("TCHBDC_NEW"."CG_HJZL_KQAQIXSPJ"."PJSJ")
+2019-03-01 11:09:07,542 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:09:07,546 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:09:09,459 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-01400: 无法将 NULL 插入 ("TCHBDC_NEW"."CG_HJZL_KQAQIXSPJ"."PJSJ")
+2019-03-01 11:09:09,461 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:09:09,464 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:09:11,224 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-01400: 无法将 NULL 插入 ("TCHBDC_NEW"."CG_HJZL_KQAQIXSPJ"."PJSJ")
+2019-03-01 11:09:11,227 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:09:11,230 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:09:13,595 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-01400: 无法将 NULL 插入 ("TCHBDC_NEW"."CG_HJZL_KQAQIXSPJ"."PJSJ")
+2019-03-01 11:09:13,598 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:09:13,604 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:09:15,953 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-01400: 无法将 NULL 插入 ("TCHBDC_NEW"."CG_HJZL_KQAQIXSPJ"."PJSJ")
+2019-03-01 11:09:15,957 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:09:15,963 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:22,546 - spider_HJZL.py:771 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 768, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:22,546 - spider_HJZL.py:771 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 768, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:22,565 - spider_HJZL.py:771 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 768, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:22,565 - spider_HJZL.py:771 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 768, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:22,572 - spider_HJZL.py:771 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 768, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:22,572 - spider_HJZL.py:771 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 768, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:22,594 - spider_HJZL.py:771 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 768, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:22,594 - spider_HJZL.py:771 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 768, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:22,615 - spider_HJZL.py:771 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 768, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:22,615 - spider_HJZL.py:771 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 768, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:22,622 - spider_HJZL.py:771 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 768, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:22,622 - spider_HJZL.py:771 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 768, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:22,637 - spider_HJZL.py:771 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 768, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:22,637 - spider_HJZL.py:771 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 768, in spider1
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:25,553 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-01400: 无法将 NULL 插入 ("TCHBDC_NEW"."CG_HJZL_KQAQIXSPJ"."PJSJ")
+2019-03-01 11:24:25,553 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-01400: 无法将 NULL 插入 ("TCHBDC_NEW"."CG_HJZL_KQAQIXSPJ"."PJSJ")
+2019-03-01 11:24:25,559 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:25,559 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:25,562 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:25,562 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:28,460 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-01400: 无法将 NULL 插入 ("TCHBDC_NEW"."CG_HJZL_KQAQIXSPJ"."PJSJ")
+2019-03-01 11:24:28,460 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-01400: 无法将 NULL 插入 ("TCHBDC_NEW"."CG_HJZL_KQAQIXSPJ"."PJSJ")
+2019-03-01 11:24:28,466 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:28,466 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:28,470 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:28,470 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:31,345 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-01400: 无法将 NULL 插入 ("TCHBDC_NEW"."CG_HJZL_KQAQIXSPJ"."PJSJ")
+2019-03-01 11:24:31,345 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-01400: 无法将 NULL 插入 ("TCHBDC_NEW"."CG_HJZL_KQAQIXSPJ"."PJSJ")
+2019-03-01 11:24:31,348 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:31,348 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:31,351 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:31,351 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:35,253 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-01400: 无法将 NULL 插入 ("TCHBDC_NEW"."CG_HJZL_KQAQIXSPJ"."PJSJ")
+2019-03-01 11:24:35,253 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-01400: 无法将 NULL 插入 ("TCHBDC_NEW"."CG_HJZL_KQAQIXSPJ"."PJSJ")
+2019-03-01 11:24:35,257 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:35,257 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:35,260 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:35,260 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:38,167 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-01400: 无法将 NULL 插入 ("TCHBDC_NEW"."CG_HJZL_KQAQIXSPJ"."PJSJ")
+2019-03-01 11:24:38,167 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-01400: 无法将 NULL 插入 ("TCHBDC_NEW"."CG_HJZL_KQAQIXSPJ"."PJSJ")
+2019-03-01 11:24:38,173 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:38,173 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:38,177 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:38,177 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:41,072 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-01400: 无法将 NULL 插入 ("TCHBDC_NEW"."CG_HJZL_KQAQIXSPJ"."PJSJ")
+2019-03-01 11:24:41,072 - spider_HJZL.py:335 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 332, in spider2
+    cursor.execute(sql1)
+IntegrityError: ORA-01400: 无法将 NULL 插入 ("TCHBDC_NEW"."CG_HJZL_KQAQIXSPJ"."PJSJ")
+2019-03-01 11:24:41,076 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:41,076 - spider_HJZL.py:342 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 339, in spider2
+    cursor.execute(sql2)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:41,081 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)
+2019-03-01 11:24:41,081 - spider_HJZL.py:349 - logging - 宸叉湁鏁版嵁
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_HJZL.py", line 346, in spider2
+    cursor.execute(sql3)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_KQAQIXSPJ)

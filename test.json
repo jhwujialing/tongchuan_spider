@@ -1,0 +1,928 @@
+http://weather.sxmb.gov.cn/map/mainmap.aspx?stime=2019-02-15%2017:00:00&etime=2019-02-16%2017:00:00&sname=%E9%93%9C%E5%B7%9D
+,气温"TEM2019021809":"-2",降水"PRE_1h2019021809":"0.2",气压"PRS2019021809":"934.6","WIN_D_Avg_2mi2019021809":"193","WIN_S_Avg_2mi2019021809":"1.9",地温"GST2019021809":"0",湿度"RHU2019021809":"94"
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="robots" content="陕西省国家重点监控企业监测信息发布平台">
+<meta name="keywords" content="陕西省国家重点监控企业监测信息发布平台">
+<meta name="description" content="陕西省国家重点监控企业监测信息发布平台">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
+<title>陕西省国家重点监控企业监测信息发布平台</title>
+<link href="/envinfo_ps/static/newStyle/css/a.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+	ul.tabs {
+		margin: 0;
+		padding: 0;
+		float: left;
+		list-style: none;
+		height: 32px;
+		border-bottom: 1px solid #999;
+		border-left: 1px solid #999;
+		width: 100%;
+	}
+	ul.tabs li {
+		float: left;
+		margin: 0;
+		padding: 0;
+		height: 31px;
+		line-height: 31px;
+		border: 1px solid #999;
+		border-left: none;
+		margin-bottom: -1px;
+		background: #e0e0e0;
+		overflow: hidden;
+		position: relative;
+	}
+	ul.tabs li a {
+		text-decoration: none;
+		color: #000;
+		display: block;
+		font-size: 1.1em;
+		padding: 0 20px;
+		border: 1px solid #fff;
+		outline: none;
+	}
+	html ul.tabs li.active, html ul.tabs li.active a:hover  {
+		background: #fff;
+		border-bottom: 1px solid #fff;
+	}
+</style>
+
+<script type="text/javascript" src="/envinfo_ps/static/js/jquery-1.7.2.js"></script>	
+<script type="text/javascript" src="/envinfo_ps/static/js/jquery.tips.js"></script>
+<script type="text/javascript" src="/envinfo_ps/static/newStyle/js/aak.js"></script>	
+<script type="text/javascript" src="/envinfo_ps/static/newStyle/js/tab.js"></script>	
+<script type="text/javascript" src="/envinfo_ps/static/My97DatePicker/WdatePicker.js"></script><!-- My97DatePicker日历控件 -->
+
+<script type="text/javascript">
+	$(document).ready(function(){
+//  	 	changejcfs();
+ 	 	selectitem();
+		autodivheight();
+		if(/Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+	    	$("#cclog1").hide();
+		}
+	});
+
+	function autodivheight(){ //函数：获取尺寸
+	    //获取浏览器窗口高度
+	    var winHeight=0;
+	    if (window.innerHeight)
+	        winHeight = window.innerHeight;
+	    else if ((document.body) && (document.body.clientHeight))
+	        winHeight = document.body.clientHeight;
+	    //通过深入Document内部对body进行检测，获取浏览器窗口高度
+	    if (document.documentElement && document.documentElement.clientHeight)
+	        winHeight = document.documentElement.clientHeight;
+	    //DIV高度为浏览器窗口的高度
+	    document.getElementById("test1").style.height= Number(winHeight)*0.7 +"px";
+	    document.getElementById("h1").style.height= Number(winHeight)*0.30 +"px";
+// 	    document.getElementById("h2").style.height= Number(winHeight)*0.47 +"px";
+	    document.getElementById("h3").style.height= Number(winHeight)*0.47 +"px";
+	    document.getElementById("h4").style.height= Number(winHeight)*0.47 +"px";
+	    document.getElementById("h5").style.height= Number(winHeight)*0.50 +"px";
+	    document.getElementById("h6").style.height= Number(winHeight)*0.50 +"px";
+	  
+	}
+// 	window.onresize=autodivheight; //浏览器窗口发生变化时同时变化DIV高度
+
+	function toNewPublicity(){
+		var areacode = $("#areacode").val();
+		if (areacode != null && areacode != ""){
+			window.location.href = "http://113.140.66.227:9777/envinfo_ps/zdypublicity/list?areacode="+$("#areacode").val();
+		} else {
+			window.location.href = "http://113.140.66.227:9777/envinfo_ps/zdypublicity/list";
+		}
+	}
+	
+	//年度报告
+	function queryJcxxFa(corpid){
+		jQuery.ajax({
+			url : "http://113.140.66.227:9777/envinfo_ps/zdypublicity/queryJcxxFa",
+			contentType : "application/json",
+			processData : true,
+			dataType : "json",
+			data : "corpid="+corpid+"&isplan=1&timestamp="+new Date().getTime(),
+			async:false,
+			success : function(data) {
+				$("#planndbgTbl").find("tr").remove();
+				if(data[0] == null) 
+					$("#planndbgTbl").append("<tr><td colspan='5'>该企业未上传年度报告</td></tr>");
+				jQuery.each(data ,function(i, item){
+					$("#planndbgTbl").append("<tr><td>"
+						+ item.APPLYYEAR
+						+"</td><td><a href='javascript:;' onclick='downloadSubmit(\""+item.FILENAME + item.FILETYPE +"\",\""+item.FILEREALNAME+"\",\""+item.FILEPATH+"\")'>"+ item.FILEREALNAME + item.FILETYPE +"</a></td><td>"
+						+ item.APPLYYEAR +"-1-1</td><td>"
+						+ item.APPLYYEAR +"-12-31</td><td>"
+						+item.CTIME+"</td></tr>");
+				});
+			},
+			error : function(e) {
+				alert("系统查询失败!");
+			}
+		});
+		
+		jQuery.ajax({
+			url : "http://113.140.66.227:9777/envinfo_ps/zdypublicity/queryJcxxFa",
+			contentType : "application/json",
+			processData : true,
+			dataType : "json",
+			data : "corpid="+corpid+"&isplan=0&timestamp="+new Date().getTime(),
+			async:false,
+			success : function(data) {
+				$("#planTbl").find("tr").remove();
+				if(data[0] == null) 
+					$("#planTbl").append("<tr><td colspan='5'>该企业未上传监测方案</td></tr>");
+				jQuery.each(data ,function(i, item){
+					$("#planTbl").append("<tr><td>"
+						+ item.APPLYYEAR
+						+"</td><td><a href='javascript:;' onclick='downloadSubmit(\""+item.FILENAME + item.FILETYPE +"\",\""+item.FILEREALNAME+"\",\""+item.FILEPATH+"\")'>"+ item.FILEREALNAME + item.FILETYPE +"</a></td><td>"
+						+ item.APPLYYEAR +"-1-1</td><td>"
+						+ item.APPLYYEAR +"-12-31</td><td>"
+						+item.CTIME+"</td></tr>");
+				});
+			},
+			error : function(e) {
+				alert("系统查询失败!");
+			}
+		});
+	}
+	
+	//报告下载
+	function downloadSubmit(storeName,realName,filepath) { 
+		$("#storeName").val(storeName);
+		$("#realName").val(realName);
+		$("#filePath").val(filepath);
+		$("#downForm").submit();
+	} 
+	
+	//未监测原因
+	function getReason(corpid){
+		jQuery.ajax({
+			url : "http://113.140.66.227:9777/envinfo_ps/zdypublicity/getReason",
+			contentType : "application/json",  
+			processData : true,  
+			dataType : "json",
+			data : "corpid="+corpid+"&timestamp="+new Date().getTime(),
+			success : function(data) {
+				$("#reasonTbl").find("tr").remove();
+				if(data[0] == null)
+					$("#reasonTbl").append("<tr><td colspan='5'>该企业没有未监测记录，或者没有录入未监测原因!</td></tr>");
+				jQuery.each(data ,function(i, item){
+					$("#reasonTbl").append("<tr><td>"+ item.BJCLX +"</td><td>"
+					+ item.BJCMC +"</td><td>"
+					+ item.BJCKSSJ +"</td><td>"
+					+ item.BJCJZSJ +"</td><td>"+ (item.BJCYY != null ? item.BJCYY : "") +"</td></tr>");
+				});
+			},
+			error : function(e) {
+				alert("系统查询失败!");
+			}
+		});
+	}
+	
+	//根据点位名称展示对应的监测指标
+	function selectitem(){
+		var point = $("#zxjcpoint").val();
+		var jcdid = point.split("·")[0];
+		var lx = point.split("·")[1];
+		var fs = point.split("·")[2];
+		jQuery.ajax({
+			url : "http://113.140.66.227:9777/envinfo_ps/zdypublicity/selectsgitem",
+			contentType : "application/json",  
+			processData : true,  
+			dataType : "json",
+			data : "jcdid="+jcdid+"&lx="+lx+"&fs="+fs+"&timestamp="+new Date().getTime(),
+			success : function(data) {
+				$("#zxjcitem").find("option").remove();
+				if(data[0] == null)
+					$("#zxjcitem").append("<option value=''>请选择</option>");
+				$("#zxjcitem").append("<option value=''>请选择</option>");
+				jQuery.each(data ,function(i, item){
+					$("#zxjcitem").append("<option value='"+item.JCDJCXMBH+"'>"+item.JCXMMC+"</option>");
+				});
+			},
+			error : function(e) {
+				alert("系统查询失败!");
+			}
+		});
+	}
+	
+	function toDecimal(x) {  
+        var f = parseFloat(x);  
+        if (isNaN(f)) {  
+            return;  
+        }  
+        f = Math.round(x*10)/10;  
+        return f;  
+    }  
+    
+    function formatUnit(str, wrtype){
+    	switch (str) {
+			case "001":
+				unit = "mg/m<sup>3</sup>";
+				break;
+			case "002":
+				unit = "mg/m<sup>3</sup>";
+				break;
+			case "003":
+				unit = "mg/m<sup>3</sup>";
+				break;
+			case "烟尘":
+				unit = "mg/m<sup>3</sup>";
+				break;
+			case "二氧化硫":
+				unit = "mg/m<sup>3</sup>";
+				break;
+			case "氮氧化物":
+				unit = "mg/m<sup>3</sup>";
+				break;
+			case "标况流量":
+				unit = "m<sup>3</sup>/h";
+				break;
+			case "氧含量":
+				unit = "%";
+				break;
+			case "烟气温度":
+				unit = "℃";
+				break;
+			case "颗粒物(无组织排放)":
+				unit = "mg/m<sup>3</sup>";
+				break;
+			case "颗粒物":
+				if(wrtype=='YQ') {
+					unit = "mg/m<sup>3</sup>";
+				} else {
+					unit = "m<sup>3</sup>/h";
+				}
+				break;
+			case "汞及其化合物":
+				unit = "mg/m<sup>3</sup>";
+				break;
+			case "011":
+				unit = "mg/L";
+				break;
+			case "060":
+				unit = "mg/L";
+				break;
+			case "化学需氧量":
+				unit = "mg/l";
+				break;
+			case "化学需氧量(COD)":
+				unit = "mg/L";
+				break;
+			case "氨氮":
+				unit = "mg/L";
+				break;
+			case "瞬时流量":
+				unit = "L/s";
+				break;
+			case "色度":
+				unit = "倍";
+				break;
+			case "粪大肠菌群数":
+				unit = "个/L";
+				break;
+			case "汞及其化合物":
+				unit = "mg/m<sup>3</sup>";
+				break;
+			case "氟化物(气)":
+				unit = "mg/m<sup>3</sup>";
+				break;
+			case "镉":
+				unit = "mg/m<sup>3</sup>";
+				break;	
+			case "铅":
+				unit = "mg/m<sup>3</sup>";
+				break;
+			case "砷":
+				unit = "mg/m<sup>3</sup>";
+				break;
+			case "锌":
+				unit = "mg/m<sup>3</sup>";
+				break;
+			case "颗粒物(无组织排放)":
+				unit = "mg/m<sup>3</sup>";
+				break;
+			case "林格曼黑度":
+				unit = ""
+				break;
+			case "硫酸雾":
+				unit = "mg/m<sup>3</sup>";
+				break;
+			case "氨":
+				unit = "mg/m<sup>3</sup>";
+				break;
+			case "氨(无组织排放)":
+				unit = "mg/m<sup>3</sup>";
+				break;
+			case "硫化氢":
+				unit = "mg/m<sup>3</sup>";
+				break;
+			case "一氧化碳":
+				unit = "mg/m<sup>3</sup>";
+				break;
+			case "汞及其化合物":
+				unit = "mg/m<sup>3</sup>";
+				break;
+			case "铝及化合物":
+				unit = "mg/m<sup>3</sup>";
+				break;
+			case "镉及化合物":
+				unit = "mg/m<sup>3</sup>";
+				break;
+			case "砷及化合物":
+				unit = "mg/m<sup>3</sup>";
+				break;
+			case "氯化氢":
+				unit = "mg/m<sup>3</sup>";
+				break;
+			case "非甲烷总烃":
+				unit = "mg/m<sup>3</sup>";
+				break;
+			case "苯并芘":
+				unit = "mg/m<sup>3</sup>";
+				break;
+			case "甲醛":
+				unit = "mg/m<sup>3</sup>";
+				break;
+			case "甲醇":
+				unit = "mg/m<sup>3</sup>";
+				break;
+			case "镉":
+				unit = "mg/m<sup>3</sup>";
+				break;
+			case "氰化氢":
+				unit = "mg/m<sup>3</sup>";
+				break;
+			case "砷":
+				unit = "mg/m<sup>3</sup>";
+				break;
+			default:
+				unit = "mg/L";
+			}
+		return unit;
+    }
+    
+    function changejcfs(){
+    	$("#zxjcitem").find("option").remove();
+    	$("#zxjcitem").append("<option value=''>请选择</option>");
+    	$("#zxjcpoint").val("");
+    	var jcfs = $("#jcfs").val();
+    	if (jcfs == 1){
+    		$(".sgpoint").css("display","block");
+    		$(".zxpoint").css("display","none");
+    	} else {
+    		$(".sgpoint").css("display","none");
+    		$(".zxpoint").css("display","block");
+    	}
+    }
+    
+    //在线数据查询
+	function zxjcsearch(){
+		var jcfs = $("#jcfs").val();
+		if ($("#zxjcpoint").val()=="") {
+			$("#zxjcpoint").tips({
+				side:3,
+	            msg:'请选择点位名称',
+	            bg:'#AE81FF',
+	            time:2
+	        });
+			$("#zxjcpoint").focus();
+			return false;
+		}
+		if (jcfs == 0){
+			if ($("#zxjcitem").val()=="") {
+				$("#zxjcitem").tips({
+					side:3,
+		            msg:'请选择监测项目',
+		            bg:'#AE81FF',
+		            time:2
+		        });
+				$("#zxjcitem").focus();
+				return false;
+			}
+		}
+		var point = $("#zxjcpoint").val();
+		var jcdid = point.split("·")[0];
+		var lx = point.split("·")[1];
+		if (jcfs == 0){
+			var cha = DateDiff($("#ZXJCJSSJ").val(),$("#ZXJCKSSJ").val());
+			if (cha > 31){
+				alert("自动监测数据查询，开始时间和结束时间跨度应小于一个月,请重新选择!");
+				return false;
+			}
+		} else {
+			var cha = DateDiff($("#ZXJCJSSJ").val(),$("#ZXJCKSSJ").val());
+			if (cha > 183){
+				alert("手工监测数据查询，开始时间和结束时间跨度应小于半年,请重新选择!");
+				return false;
+			}
+		}
+		var jcurl = "";
+		if (jcfs == 0){
+			jcurl = "http://113.140.66.227:9777/envinfo_ps/zdypublicity/zxjcList";
+		} else {
+			jcurl = "http://113.140.66.227:9777/envinfo_ps/zdypublicity/sgjcList";
+		}
+		jQuery.ajax({
+			url : jcurl,
+			contentType : "application/json",
+			processData : true,
+			dataType : "json",
+			data : "jcdid="+jcdid+"&itemid="+$("#zxjcitem").val() +"&lx="+lx +"&startdate="+$("#ZXJCKSSJ").val() +"&enddate="+$("#ZXJCJSSJ").val() + "&timestamp="
+					+ new Date().getTime(),
+			async:false, 
+			beforeSend:function(XMLHttpRequest){
+	              $("#jzts").show();
+	         }, 
+			success : function(data) {
+				$("#jzts").hide();
+				$("#zxjctbl").find("tr").remove();
+				if (data[0] == null)
+					$("#zxjctbl").append("<tr><td colspan='7'>未找到满足条件的数据！</td></tr>");
+				$.each(data, function(n, value) {
+					var nd = value.SCND;
+					if (!isNaN(value.XZSX) && !isNaN(nd)){
+						if (value.XZSX != " " && eval(nd) > eval(value.XZSX)){
+							nd = "<font color='red'>"+nd+"</font>";
+						}
+					}
+					$("#zxjctbl").append(
+							"<tr><td>"
+					+ value.JCDMC
+					+ "</td><td>"
+					+ value.SJFBRQ
+					+ "</td><td>"
+					+ value.JCXMMC
+					+ "</td><td>"
+					+ nd
+					+ "</td><td>"
+					+ (value.XZSX != null ? value.XZSX : "")
+					+ "</td><td>"
+					+ value.JCXMDW
+					+ "</td><td>"
+					+ (value.CBBS != null ? value.CBBS : "")
+					+ "</td></tr>");
+				});
+				
+			},
+			error : function(e) {
+				alert("运行错误");
+			}
+		});
+	}
+	
+	function DateDiff(d1,d2){
+	    var day = 24 * 60 * 60 *1000;
+		try{    
+		        var dateArr = d1.split("-");
+		   var checkDate = new Date();
+		        checkDate.setFullYear(dateArr[0], dateArr[1]-1, dateArr[2]);
+		   var checkTime = checkDate.getTime();
+		  
+		   var dateArr2 = d2.split("-");
+		   var checkDate2 = new Date();
+		        checkDate2.setFullYear(dateArr2[0], dateArr2[1]-1, dateArr2[2]);
+		   var checkTime2 = checkDate2.getTime();
+		    
+		   var cha = (checkTime - checkTime2)/day;  
+		        return cha;
+		    }catch(e){
+		   return false;
+		}
+	}
+	
+	$(document).ready(function() {  
+	    $("ul.tabs li").click(function() {  
+	        $("ul.tabs li").removeClass("active");
+	        $(this).addClass("active");
+	        return false;  
+	    });  
+	  
+	}); 
+	
+	$(document).ready(function() {  
+	    $("#li2").addClass("active").show();
+	    $("#planndbgTbl").hide();
+	});
+	
+	function ndbg(){
+		$("#planndbgTbl").show();
+		$("#planTbl").hide();
+	}
+	
+	function jcfa(){
+		$("#planTbl").show();
+		$("#planndbgTbl").hide();
+	}
+</script>
+</head>
+
+<body>
+	<div id="jzts" style="display:none; width:100%; position:fixed; z-index:99999999;">
+	<input type="hidden" id="areacode" value="">
+	<div class="commitopacity" id="bkbgjz"></div>
+	<div style="padding-left: 50%; padding-top: 30%;">
+		<div style="float: left;margin-top: 3px;"><img src="/envinfo_ps/static/newStyle/images/loadingi.gif" /> </div>
+		<div style="margin-top: 5px;"><h3 class="lighter block red">&nbsp;加载中 ...</h3></div>
+	</div>
+	</div>
+	<div id="cchead">
+		
+			<img src="/envinfo_ps/static/newStyle/images/cctubiao1.png" style="position:relative;margin:0.7% 0 0 10%">
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	</div>		
+		<div class="ccmidd">
+			<div class="zhong" id="test1"><div class="zhong222"><div id="cclog1" class="cclog"><img src="/envinfo_ps/static/newStyle/images/cclogo.png" width="100%" height="100%"></div><p>铜川市污水处理厂</p><input class="btn-danger " onclick="toNewPublicity();" type="button" value="返回首页"></div>		
+			
+		    <div class="" js-tab="1">
+        <div class="tab-title">
+				<a href="javascript:;" class="item">
+					<span><img src="/envinfo_ps/static/newStyle/images/cc01.png" width="20px" height="16px"></span>&nbsp;&nbsp;企业信息</a>
+				<a href="javascript:;" class="item">
+					<span><img src="/envinfo_ps/static/newStyle/images/cc04.png" width="20px" height="16px"></span>&nbsp;&nbsp;最新自行监测数据</a>
+					<a href="javascript:;" class="item">
+					<span ><img src="/envinfo_ps/static/newStyle/images/cc05.png" width="20px" height="16px" ></span>&nbsp;&nbsp;历史监测数据</a>
+				<a onclick="queryJcxxFa('8a496344a3e74b1faffb3a3271dc19d1');" class="item">
+					<span><img src="/envinfo_ps/static/newStyle/images/cc06.png" width="20px" height="16px"></span>&nbsp;&nbsp;监测方案年度报告</a>
+					<a onclick="getReason('8a496344a3e74b1faffb3a3271dc19d1');" class="item">
+					<span><img src="/envinfo_ps/static/newStyle/images/cc06.png" width="20px" height="16px"></span>&nbsp;&nbsp;未监测原因</a>
+			</div>
+
+            <div class="tab-cont__wrap">            	 
+                <div style="display: none;font-size:#000;" class="item">
+                	<div class="qyxxbt"><img src="/envinfo_ps/static/newStyle/images/cc07.png"  >企业信息</div>
+                   <div class="lanren">
+                      <div class="xzxk_jnrxia ">
+					    <table id="comparison" >
+								<tr><td class="empiredb">企业名称</td>
+									<td id="lid02">铜川市污水处理厂</td>
+									<td class="empiredb">曾用名</td>
+					                <td id="lid03"></td>
+									<td class="empiredb">组织机构代码</td>
+					                <td id="lid03">77698179-0</td>
+								</tr>
+								<tr>
+								<td class="empiredb">行业类别</td>
+					            <td id="lid02">污水处理及其再生利用</td>
+					            <td class="empiredb">企业类别</td>			
+								<td id="lid03">水环境</td>
+								<td class="empiredb">法定代表人</td>
+					            <td id="lid03">赵彦峰</td>
+					            </tr>	
+								<tr>
+								<td class="empiredb">监测部门</td>			
+								<td id="lid02">西安创业水务有限公司</td>
+								<td class="empiredb">注册类型</td>
+								<td id="lid03">内资企业</td>
+								<td class="empiredb">企业规模</td>
+					             <td id="lid03">
+					             	
+					             	中型
+					             	
+					             	
+					             </td>	
+								</tr>
+								<tr>
+								<td class="empiredb">联系电话</td>
+								<td id="lid02">0919-2360283</td>
+					            <td class="empiredb">传真</td>			
+								<td id="lid03">0919-2360283</td>
+								<td class="empiredb">联系人</td>
+					             <td id="lid03">吴国庆</td>	
+								</tr>
+					           
+								<tr>
+								<td class="empiredb">企业地址</td>			
+								<td id="lid02" colspan="5"></td>
+							</table>
+					    </div>
+					     <div class="xzxk_jgfk" style="overflow:auto;" id="h1">
+					     <table width="100%" border="0" cellspacing="0" cellpadding="0"   class="ccef"  id="t1">
+					 <thead>
+					  <tr >
+					<th  style="width:10.8%;">点位名称</th>
+					<th style="width:9%;">点位类型</th>
+					<th style="width:8.3%;">点位属性</th>
+					<th  style="width:7.3%;">经度</th>
+					<th  style="width:7.4%">纬度</th>
+				</tr></thead>
+					  <tbody>
+						    
+							 <tr>
+								<td>总排口</td>
+							    <td>废水</td>
+							    <td>排口</td>
+							    <td>°′″</td>
+							    <td>°′″</td>
+							 </tr>
+						    
+						</tbody>
+					</table>
+					 </div>
+					   </div> 
+					</div>
+					          
+              <div style="display: none;" class="item">
+                  <div class="qyxxbt"><img src="/envinfo_ps/static/newStyle/images/cc07.png"  >最新自行监测数据</div> <div class="lanren">
+                       <div class="xzxk_jgfk" style="overflow:auto;" id="h3">
+                       	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					  <tr>
+					    <td style="background-color:#D6D6D6;padding:0.6%;font-size:16px;text-align:center">自动监测</td>
+					  </tr>
+					</table>	
+					 <table width="100%" border="0" cellspacing="0" cellpadding="0"   class="ccef"  id="t1">
+					 <thead>
+					  <tr>
+						  <th  style="width:15%;">监测点位</th>
+						  <th   style="width: 10.5%">监测日期	</th>
+						  <th style="width: 13%">监测项目</th>
+						  <th  style="width: 8%">污染物浓度</th>
+						  <th  style="width: 8%">排放限值</th>
+						  <th  style="width: 4.5%">单位</th>
+						  <th  style="width: 7%">超标倍数</th>
+<!-- 						  <th  style="width: 16.5%">执行标准</th> -->
+						 </tr></thead>
+					  <tbody id="zxjczxsjtbl">
+					  
+					     <tr>
+						    <td>总排口</td>
+						    <td>2019-02-21 14</td>
+						    <td>氨氮（NH3-N）</td>
+						    <td>2.351</td>
+						    <td>8</td>
+						    <td>mg/L</td>
+					        <td></td>
+<!-- 					        <td></td> -->
+					  </tr>
+					
+					     <tr>
+						    <td>总排口</td>
+						    <td>2019-02-21 14</td>
+						    <td>总磷（以P计）</td>
+						    <td>.244</td>
+						    <td>0.5</td>
+						    <td>mg/L</td>
+					        <td></td>
+<!-- 					        <td></td> -->
+					  </tr>
+					
+					     <tr>
+						    <td>总排口</td>
+						    <td>2019-02-21 14</td>
+						    <td>总氮（以N计）</td>
+						    <td>10.57</td>
+						    <td>15</td>
+						    <td>mg/L</td>
+					        <td></td>
+<!-- 					        <td></td> -->
+					  </tr>
+					
+					     <tr>
+						    <td>总排口</td>
+						    <td>2019-02-21 14</td>
+						    <td>化学需氧量</td>
+						    <td>21.42</td>
+						    <td>50</td>
+						    <td>mg/L</td>
+					        <td></td>
+<!-- 					        <td></td> -->
+					  </tr>
+					
+					     <tr>
+						    <td>总排口</td>
+						    <td>2019-02-21 14</td>
+						    <td>pH值</td>
+						    <td>7.49</td>
+						    <td>9</td>
+						    <td>mg/L</td>
+					        <td></td>
+<!-- 					        <td></td> -->
+					  </tr>
+					
+					</tbody>
+					</table>
+					<p style="height: 15px;">&nbsp;</p>
+					 <table width="100%" border="0" cellspacing="0" cellpadding="0">
+					  <tr>
+					    <td style="background-color:#D6D6D6;padding:0.6%;font-size:16px;text-align:center">手动监测</td>
+					  </tr>
+					</table>	
+					 <table width="100%" border="0" cellspacing="0" cellpadding="0"   class="ccef"  id="t1">
+					 <thead>
+					  <tr >
+					<th  style="width:15%;">监测点位</th>
+					<th   style="width: 10.5%">监测日期</th>
+					<th style="width: 13%">监测项目</th>
+					<th  style="width: 8%">污染物浓度</th>
+					<th  style="width: 8%">排放限值</th>
+					<th  style="width: 4.5%">单位</th>
+<!-- 					  <th  style="width: 23.5%">执行标准</th> -->
+				</tr></thead>
+					  <tbody id="sgjczxsjtbl">
+					    
+					     <tr>
+						    <td>总排口</td>
+						    <td>2019-01-17</td>
+						    <td>五日生化需氧量</td>
+						    <td>9.62</td>
+						    <td>10</td>
+						    <td>mg/L</td>
+<!-- 					        <td>7C893F755ABC4C4792FCEF132C00A24F</td> -->
+					 	 </tr>
+						
+					     <tr>
+						    <td>总排口</td>
+						    <td>2019-01-17</td>
+						    <td>悬浮物</td>
+						    <td>8</td>
+						    <td>10</td>
+						    <td>mg/L</td>
+<!-- 					        <td>1820065CC64944B5B7B73DE1E0D6C728</td> -->
+					 	 </tr>
+						
+					     <tr>
+						    <td>总排口</td>
+						    <td>2019-01-17</td>
+						    <td>粪大肠菌群数</td>
+						    <td>520</td>
+						    <td>1000</td>
+						    <td>mg/L</td>
+<!-- 					        <td>BEF1790E438F494C9A5653D8882121F6</td> -->
+					 	 </tr>
+						
+					</tbody>
+					</table>
+					
+                    </div>
+                    </div>
+                </div>
+                
+                <div style="display: block;" class="item">
+                    <div class="qyxxbt"><img src="/envinfo_ps/static/newStyle/images/cc07.png"  >历史监测数据</div>  <div class="lanren">
+                    	                        <div class="ccs-zhon ">  <div class="ccs-lsjc ">    
+					        <div class="ccs_arch "> 
+					     监测方式
+					        <select name="jcfs" id="jcfs" onchange="changejcfs();" style="width:80px;" required="required">
+						<option value="0">自动监测</option>
+						<option value="1">手工监测</option>
+					</select>  
+					        　监测点位
+					 <select name="zxjcpoint" id="zxjcpoint" onchange="selectitem();" style="width:170px;" required="required">
+						<option value="">--请选择--</option>
+						
+							<option class="zxpoint" style="display: block;" value="1384153bda4040798f693c9a0211b896·2·0">总排口</option>
+						
+						
+							<option class="sgpoint" style="display: none;" value="1384153bda4040798f693c9a0211b896·2·1">总排口</option>
+						
+					</select>
+					        监测项目
+				        <select name="zxjcitem" id="zxjcitem" style="width:130px;">
+							<option value="">--请选择--</option>
+						</select>
+					 <div class="ccs-JSwitch ">
+									<table cellspacing="0" cellpadding="0" class="">
+										<tbody>
+										<tr>
+											<td>开始时间</td>
+											<td><input class="Wdate" name="ZXJCKSSJ" id="ZXJCKSSJ" style="color: black; font-weight: bold; width: 95px;" value="2019-02-21"  type="text" readonly="readonly" required="required" onclick="WdatePicker({dateFmt:'yyyy-MM-dd',minDate:'{%y-1}-%M-{%d}',maxDate:'#F{$dp.$D(\'ZXJCJSSJ\')||\'new Date()\'}'})"/></td>
+					                        <td>—</td>
+					                        <td> 结束时间</td>
+											<td><input class="Wdate" name="ZXJCJSSJ" id="ZXJCJSSJ" style="color: black; font-weight: bold; width: 95px;" value="2019-02-21" type="text" readonly="readonly" required="required" onclick="WdatePicker({dateFmt:'yyyy-MM-dd',minDate:'#F{$dp.$D(\'ZXJCKSSJ\')}',maxDate:new Date()})"/></td>
+					                        <td><div class="search_btn2">
+									    <input type="submit" value="搜索" onclick="zxjcsearch();" class="btnearch" id="btnSearch"/> </div>
+									</td>
+										</tr>
+									</tbody></table>
+								</div>
+					        </div>
+					       		 
+					</div></div>
+					<div id="zhongxin2" class="center" style="display:none"><br/><br/><br/><br/><br/><img src="/envinfo_ps/static/images/jiazai.gif" /><br/><h4 class="lighter block green">提交中...</h4></div>
+                    <div class="xzxk_jgfk" style="overflow:auto;" id="h4">
+					 <table width="100%" border="0" cellspacing="0" cellpadding="0"   class="ccef"  id="t1">
+					 <thead>
+					  <tr >
+					<th  style="width:15%;">监测点位</th>
+					<th   style="width: 10.5%">监测日期	</th>
+					<th style="width: 11%">监测项目</th>
+					<th  style="width: 8%">污染物浓度</th>
+					<th  style="width: 7%">排放限值</th>
+					<th  style="width: 5.5%">单位</th>
+					<th  style="width: 7%">超标倍数</th>
+<!-- 					  <th  style="width: 18.5%">执行标准</th> -->
+					</tr></thead>
+					  <tbody id="zxjctbl">
+<!-- 					     <tr> -->
+<!-- 						    <td></td> -->
+<!-- 						    <td></td> -->
+<!-- 						    <td></td> -->
+<!-- 						    <td></td> -->
+<!-- 						    <td></td> -->
+<!-- 						    <td></td> -->
+<!-- 						    <td></td> -->
+<!-- 						    <td></td> -->
+<!-- 						</tr> -->
+<!-- 					  <tr> -->
+<!-- 					    <td colspan="9" style="padding:1% 0"><img src="/envinfo_ps/static/newStyle/images/db.gif.jpg"  >表示达标</div>&nbsp;&nbsp;&nbsp;<img src="/envinfo_ps/static/newStyle/images/warning.gif"  >表示未达标</div> </td> -->
+<!-- 					  </tr> -->
+					</tbody>
+					</table>
+	                        </div></div></div>
+	                       <div style="display: none;" class="item">
+	                    <div class="qyxxbt"><img src="/envinfo_ps/static/newStyle/images/cc07.png"  >监测方案年度报告</div>  <div class="lanren">   
+	                    <div>
+	                    <ul class="tabs">  
+						    <li id="li2"><a href="#tab" onclick="jcfa();">监测方案</a></li>  
+						    <li id="li1"><a href="#tab" onclick="ndbg();">年度报告</a></li>  
+						</ul>
+	                    </div>                     
+	                <div class="xzxk_jgfk" style="overflow:auto;" id="h5">
+	                <form id="downForm" action="http://113.140.66.227:9777/envinfo_ps/zdypublicity/download" method="post">
+						<input type="hidden" name="storeName" id="storeName" value="" />
+						<input type="hidden" name="realName" id="realName" value="" />
+						<input type="hidden" name="filePath" id="filePath" value="" />
+					</form>
+					 <table width="100%" border="0" cellspacing="0" cellpadding="0"   class="ccbg"  id="t1">
+					 <thead>
+					  <tr >
+					<th  style="width:10%;">年度</th>
+					<th   style="width: 24%">标题</th>
+					<th style="width: 11%">适用开始时间</th>
+					<th  style="width: 11%">适用结束时间</th>
+					<th  style="width: 11%">发布日期</th>
+					</tr></thead>
+					<tbody id="planndbgTbl">
+					     <tr>
+						    <td></td>
+						    <td></td>
+						    <td></td>
+						    <td></td>
+						    <td></td>
+					    </tr>
+					</tbody>
+					  <tbody id="planTbl">
+					     <tr>
+						    <td></td>
+						    <td></td>
+						    <td></td>
+						    <td></td>
+						    <td></td>
+					    </tr>
+					</tbody>
+				</table>   </div> 
+                   </div> 
+                 </div>   
+                                        <div style="display: none;" class="item">
+                    <div class="qyxxbt"><img src="/envinfo_ps/static/newStyle/images/cc07.png"  >未监测原因</div>  <div class="lanren">                        
+                <div class="xzxk_jgfk" style="overflow:auto;" id="h6">
+					 <table width="100%" border="0" cellspacing="0" cellpadding="0"   class="ccbg"  id="t1">
+					 <thead>
+					  <tr >
+					<th  style="width:13%;">未检测类型</th>
+					<th   style="width: 24%">未检测名称</th>
+					<th   style="width: 13%">开始时间</th>
+					<th   style="width: 13%">结束时间</th>
+					<th style="width: 37%">未监测原因</th>
+					</tr></thead>
+					  <tbody id="reasonTbl">
+					     <tr>
+						     <td></td>
+						     <td></td>
+						     <td></td>
+						     <td></td>
+						     <td></td>
+					     </tr>
+					</tbody>
+					</table>   
+					</div> 
+                 </div> 
+               </div>   
+                 
+          </div>
+	 </div></div>	
+      <div style="text-align:center;width:100%;float:left">版权所有：陕西省生态环境厅主办    地址：西安市新城省政府大楼10层  邮编：710006 </div> 
+	</body>
+</html>
+
