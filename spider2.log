@@ -36167,3 +36167,1893 @@ Traceback (most recent call last):
   File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
     cursor.execute(sql1)
 IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 11:46:09,042 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:16:23,664 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 12:46:38,743 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:16:51,801 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)
+2019-03-01 13:47:06,227 - spider_weather_data.py:138 - logging - spider鏈夐敊 澶辫触
+Traceback (most recent call last):
+  File "F:\tongchuan_spider\spider_weather_data.py", line 134, in <module>
+    spider_weather(conn)
+  File "F:\tongchuan_spider\spider_weather_data.py", line 91, in spider_weather
+    cursor.execute(sql1)
+IntegrityError: ORA-00001: 违反唯一约束条件 (TCHBDC_NEW.UQ_QXXSSJ)

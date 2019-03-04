@@ -332,21 +332,21 @@ def spider2(logger,conn):
 				cursor.execute(sql1)
 				conn.commit()
 			except:
-				logger.error('已有数据',exc_info=1)
+				1 == 1
 			sql2 = "INSERT INTO CG_HJZL_KQAQIXSPJ (UUID,PJSJ,AQI,SYWRW,KQZSDJID,SO2,NO2,PM10,CO,O3,PM2D5,ZDMC,ZDUUID,SZXZQ,GMT_CREATE,SO2_AQI,NO2_AQI,CO_AQI,O3_AQI,PM10_AQI,PM2D5_AQI)VALUES('%s',to_date(\'%s\','yyyy-MM-dd HH24:MI:SS'),'%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s',to_date(\'%s\','yyyy-MM-dd HH24:MI:SS'),'%s','%s','%s','%s','%s','%s')"\
 			%(pollutantid1,TIMEPOINT_1,AQI_1,PRIMARYPOLLUTANT_1,QUALITY_1,SO2_1,NO2_1,PM10_1,CO_1,O3_1,PM2_5_1,station_name,station_ID,area_code_origin,timenow_afterwards,aqi_so2_1,aqi_no2_1,aqi_co_1,aqi_o3_1,aqi_pm10_1,aqi_pm25_1)
 			try:
 				cursor.execute(sql2)
 				conn.commit()
 			except:
-				logger.error('已有数据',exc_info=1)
+				1 == 1
 			sql3 = "INSERT INTO CG_HJZL_KQAQIXSPJ (UUID,PJSJ,AQI,SYWRW,KQZSDJID,SO2,NO2,PM10,CO,O3,PM2D5,ZDMC,ZDUUID,SZXZQ,GMT_CREATE,SO2_AQI,NO2_AQI,CO_AQI,O3_AQI,PM10_AQI,PM2D5_AQI)VALUES('%s',to_date(\'%s\','yyyy-MM-dd HH24:MI:SS'),'%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s','%s',to_date(\'%s\','yyyy-MM-dd HH24:MI:SS'),'%s','%s','%s','%s','%s','%s')"\
 			%(pollutantid2,TIMEPOINT_2,AQI_2,PRIMARYPOLLUTANT_2,QUALITY_2,SO2_2,NO2_2,PM10_2,CO_2,O3_2,PM2_5_2,station_name,station_ID,area_code_origin,timenow_afterwards,aqi_so2_2,aqi_no2_2,aqi_co_2,aqi_o3_2,aqi_pm10_2,aqi_pm25_2)
 			try:
 				cursor.execute(sql3)
 				conn.commit()
 			except:
-				logger.error('已有数据',exc_info=1)
+				1 == 1
 		except:
 			logger.error('错误',exc_info=1)
 '''
@@ -768,7 +768,7 @@ def spider1(logger,conn):
 					cursor.execute(sql1)
 					conn.commit()
 				except:
-					logger.error('已有数据',exc_info=1)
+					1 == 1
 for kk in range(9999999):
 	#module_path = '/usr/txjson/'
 	module_path = 'F:/tongchuan_spider'
@@ -782,6 +782,7 @@ for kk in range(9999999):
 	logger.setLevel(logging.INFO)
 	conn = cx_Oracle.connect('tchbdc_new/tchbdc_new@172.18.0.104/orcl')
 	cursor = conn.cursor()
+	
 	#spider1是所有点的小时数据
 	
 	try:
